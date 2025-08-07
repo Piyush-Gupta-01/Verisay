@@ -15,3 +15,9 @@ target/
 .DS_Store
 .idea/
 *.iml
+
+# Firebase
+backend/src/main/resources/firebase-service-account.json
+
+# OpenAI key or config
+backend/src/main/resources/application.properties
