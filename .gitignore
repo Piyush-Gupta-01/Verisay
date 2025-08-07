@@ -1,0 +1,3 @@
+# Ignore sensitive config files
+backend/src/main/resources/firebase-service-account.json
+backend/src/main/resources/application.properties
