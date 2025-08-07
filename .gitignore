@@ -1,0 +1,17 @@
+# React Native
+node_modules/
+android/
+ios/
+.env
+
+# Java backend
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# General
+.DS_Store
+.idea/
+*.iml
