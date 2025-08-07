@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "VeriSay",
+    "slug": "verisay",
+    "developmentClient": {
+      "silentLaunch": true
+    },
+    "plugins": [
+      "expo-dev-client"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1b76919d-5a59-4a6c-9394-0fd52e58fde4"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727190467719",
+    "project_id": "projectverisay",
+    "storage_bucket": "projectverisay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727190467719:android:6e38d5edbcc32eeb443422",
+        "android_client_info": {
+          "package_name": "com.verisay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727190467719-564hkn126klhbbgq5odqoju5far19ult.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3btA76SkrrjlmzGN1V4WVjbbi2Elp7A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727190467719-564hkn126klhbbgq5odqoju5far19ult.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+Mera veri sAY 

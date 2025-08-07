@@ -1,0 +1,31 @@
+diff --git a/node_modules/@react-native-firebase/auth/lib/index.js b/node_modules/@react-native-firebase/auth/lib/index.js
+index d5a446c..65430f4 100644
+--- a/node_modules/@react-native-firebase/auth/lib/index.js
++++ b/node_modules/@react-native-firebase/auth/lib/index.js
+@@ -38,7 +38,7 @@ import { MultiFactorUser, multiFactor } from './multiFactor';
+ import AppleAuthProvider from './providers/AppleAuthProvider';
+ import EmailAuthProvider from './providers/EmailAuthProvider';
+ import FacebookAuthProvider from './providers/FacebookAuthProvider';
+-import GithubAuthProvider from './providers/GithubAuthProvider';
++// import GithubAuthProvider from './providers/GithubAuthProvider';
+ import GoogleAuthProvider from './providers/GoogleAuthProvider';
+ import OAuthProvider from './providers/OAuthProvider';
+ import OIDCAuthProvider from './providers/OIDCAuthProvider';
+@@ -53,7 +53,7 @@ export {
+   EmailAuthProvider,
+   PhoneAuthProvider,
+   GoogleAuthProvider,
+-  GithubAuthProvider,
++  // GithubAuthProvider,
+   TwitterAuthProvider,
+   FacebookAuthProvider,
+   PhoneMultiFactorGenerator,
+@@ -66,7 +66,7 @@ const statics = {
+   EmailAuthProvider,
+   PhoneAuthProvider,
+   GoogleAuthProvider,
+-  GithubAuthProvider,
++  // GithubAuthProvider,
+   TwitterAuthProvider,
+   FacebookAuthProvider,
+   PhoneMultiFactorGenerator,
